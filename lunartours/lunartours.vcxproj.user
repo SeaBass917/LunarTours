@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>"F:\Pima\ENG276IN\Project Outlines\Project 5\moon-sites.txt" "F:\Pima\ENG276IN\Project Outlines\Project 5\moon-connections.txt" "F:\Pima\ENG276IN\Project Outlines\Project 5\moon-requestedPaths.txt" "F:\Pima\ENG276IN\Project Outlines\Project 5\MyOutput.txt"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
